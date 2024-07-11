@@ -11,9 +11,6 @@ This repository contains MATLAB scripts and documentation for a project on Hilbe
 - Projection.m
 - Projection_in_fourier_series.m
 # Results
-- ![Definition and Properties](Pictures/Mathematical Analysis.png)
-- ![Orthogonality](Pictures/Mathematical Analysis(1).png)
-- ![Projection Theorems](Pictures/Mathematical Analysis(2).png)
-- ![Parseval Theorem](Pictures/Mathematical Analysis(3).png)
+![Definition and Properties](Pictures/Mathematical Analysis.png)
 
 
